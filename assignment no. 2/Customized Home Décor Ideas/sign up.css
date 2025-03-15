@@ -1,0 +1,408 @@
+.signup {
+  background-color: #f5f5dcd9;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.signup .div {
+  background-color: #f5f5dcd9;
+  overflow: hidden;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+}
+
+.signup .create-an-account {
+  position: absolute;
+  width: 277px;
+  height: 62px;
+  top: 646px;
+  left: 583px;
+}
+
+.signup .overlap-group {
+  width: 275px;
+  height: 62px;
+  background-color: #3c5156;
+  position: relative;
+  border-radius: 9px;
+}
+
+.signup .text-wrapper {
+  position: absolute;
+  width: 266px;
+  height: 55px;
+  top: 3px;
+  left: 0;
+  font-family: "Poppins-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 23px;
+  text-align: center;
+  letter-spacing: 1.61px;
+  line-height: 23px;
+}
+
+.signup .overlap {
+  position: absolute;
+  width: 672px;
+  height: 52px;
+  top: 483px;
+  left: 386px;
+}
+
+.signup .enter-password {
+  position: absolute;
+  width: 672px;
+  height: 52px;
+  top: 0;
+  left: 0;
+}
+
+.signup .enter-your-password-wrapper {
+  position: relative;
+  width: 670px;
+  height: 52px;
+  background-color: #d9d9d9;
+  border-radius: 9px;
+}
+
+.signup .enter-your-password {
+  position: absolute;
+  width: 605px;
+  height: 52px;
+  top: 0;
+  left: 22px;
+  opacity: 0.17;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 21px;
+  letter-spacing: 2.52px;
+  line-height: 21px;
+}
+
+.signup .image {
+  width: 21px;
+  height: 21px;
+  top: 15px;
+  left: 617px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.signup .email {
+  width: 672px;
+  top: 385px;
+  left: 386px;
+  position: absolute;
+  height: 52px;
+}
+
+.signup .email-wrapper {
+  position: relative;
+  width: 670px;
+  height: 52px;
+  background-color: #d9d9d9;
+  border-radius: 9px;
+  border: none;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 21px;
+  letter-spacing: 2.52px;
+  line-height: 21px;
+  padding: 0;
+  padding-left: 31px;
+}
+
+.signup .first-name {
+  position: absolute;
+  width: 302px;
+  height: 52px;
+  top: 287px;
+  left: 386px;
+}
+
+.signup .input {
+  width: 300px;
+  height: 52px;
+  background-color: #d9d9d9;
+  position: relative;
+  border-radius: 9px;
+  border: none;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 21px;
+  letter-spacing: 2.52px;
+  line-height: 21px;
+  padding: 0;
+  padding-left: 14px;
+}
+
+.signup .last-name {
+  position: absolute;
+  width: 302px;
+  height: 52px;
+  top: 287px;
+  left: 756px;
+}
+
+.signup .overlap-2 {
+  position: absolute;
+  width: 1532px;
+  height: 286px;
+  top: 738px;
+  left: -90px;
+}
+
+.signup .chair {
+  left: 90px;
+  position: absolute;
+  width: 223px;
+  height: 286px;
+  top: 0;
+  object-fit: cover;
+}
+
+.signup .img {
+  left: 1307px;
+  position: absolute;
+  width: 223px;
+  height: 286px;
+  top: 0;
+  object-fit: cover;
+}
+
+.signup .footer {
+  position: absolute;
+  width: 1532px;
+  height: 72px;
+  top: 214px;
+  left: 0;
+  background-color: transparent;
+}
+
+.signup .overlap-3 {
+  position: relative;
+  width: 1530px;
+  height: 72px;
+}
+
+.signup .rectangle {
+  position: absolute;
+  width: 1443px;
+  height: 72px;
+  top: 0;
+  left: 87px;
+  background-color: #3c5156;
+}
+
+.signup .element-thehomedecor {
+  position: absolute;
+  width: 655px;
+  height: 53px;
+  top: 16px;
+  left: 0;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.signup .social-platform {
+  position: absolute;
+  width: 233px;
+  height: 61px;
+  top: 7px;
+  left: 1108px;
+}
+
+.signup .image-2 {
+  width: 48px;
+  height: 48px;
+  top: 7px;
+  left: 185px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.signup .image-3 {
+  width: 48px;
+  height: 48px;
+  top: 5px;
+  left: 99px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.signup .ic-baseline-facebook {
+  position: absolute;
+  width: 61px;
+  height: 61px;
+  top: 0;
+  left: 0;
+}
+
+.signup .overlap-4 {
+  position: absolute;
+  width: 1612px;
+  height: 287px;
+  top: 0;
+  left: -89px;
+}
+
+.signup .create-an-account-2 {
+  position: absolute;
+  width: 739px;
+  height: 138px;
+  top: 37px;
+  left: 439px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #3c5156;
+  font-size: 78px;
+  letter-spacing: 0;
+  line-height: 78px;
+}
+
+.signup .ceiling-light {
+  position: absolute;
+  width: 475px;
+  height: 287px;
+  top: 0;
+  left: 1137px;
+}
+
+.signup .overlap-5 {
+  position: relative;
+  width: 392px;
+  height: 287px;
+}
+
+.signup .ceiling-OT-light-PNG {
+  width: 281px;
+  height: 168px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.signup .ceiling-OT-light-PNG-2 {
+  width: 266px;
+  height: 217px;
+  left: 88px;
+  position: absolute;
+  top: 0;
+}
+
+.signup .ceiling-OT-light-PNG-3 {
+  width: 240px;
+  height: 287px;
+  left: 152px;
+  position: absolute;
+  top: 0;
+}
+
+.signup .overlap-wrapper {
+  position: absolute;
+  width: 475px;
+  height: 287px;
+  top: 0;
+  left: 0;
+  transform: rotate(180deg);
+}
+
+.signup .overlap-6 {
+  position: relative;
+  width: 386px;
+  height: 287px;
+}
+
+.signup .ceiling-OT-light-PNG-4 {
+  position: absolute;
+  width: 281px;
+  height: 168px;
+  top: 119px;
+  left: 0;
+  transform: rotate(-180deg);
+}
+
+.signup .ceiling-OT-light-PNG-5 {
+  position: absolute;
+  width: 266px;
+  height: 217px;
+  top: 70px;
+  left: 88px;
+  transform: rotate(-180deg);
+}
+
+.signup .ceiling-OT-light-PNG-6 {
+  position: absolute;
+  width: 234px;
+  height: 287px;
+  top: 0;
+  left: 152px;
+  transform: rotate(-180deg);
+}
+
+.signup .header {
+  position: absolute;
+  width: 1442px;
+  height: 49px;
+  top: 0;
+  left: 89px;
+  background-color: transparent;
+}
+
+.signup .welcome-to-home-wrapper {
+  position: relative;
+  width: 1440px;
+  height: 49px;
+  background-color: #3c5156;
+}
+
+.signup .welcome-to-home {
+  position: absolute;
+  width: 458px;
+  height: 26px;
+  top: 12px;
+  left: 947px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #121315;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32px;
+  white-space: nowrap;
+}
+
+.signup .i-agree-to-the-term {
+  position: absolute;
+  width: 296px;
+  height: 33px;
+  top: 573px;
+  left: 446px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #3c5156;
+  font-size: 14px;
+  letter-spacing: 1.68px;
+  line-height: 14px;
+}
+
+.signup .image-4 {
+  width: 19px;
+  height: 19px;
+  top: 581px;
+  left: 417px;
+  position: absolute;
+  object-fit: cover;
+}

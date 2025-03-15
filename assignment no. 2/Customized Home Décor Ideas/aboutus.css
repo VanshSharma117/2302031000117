@@ -1,0 +1,125 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: border-box;
+    font-family: Arial;
+    background-color: #F5F5DC;
+}
+.wel-box{
+    background-color: #3C5156ff;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+h1{
+    position: relative;
+    right: 40px;
+    font-size: 1.75rem;
+    background-color: transparent;
+    color: #00000073;
+}
+.head-logo{
+    display: flex;
+    flex: wrap;
+    height: 110px;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    background-image: url("logo.gif");
+    height: 75px;
+    width: 280px;
+    margin-left: 54px;
+}
+.account{
+    font-size: 1.5rem;
+    color: #3C5156ff;
+    font-weight: 700;
+    text-decoration: none;
+    margin-left: 40px;
+}
+i{
+    font-size: 1.9rem;
+    margin: 0 10px 30px 0;
+    background-color: transparent;
+}
+.account-cart{
+    position: relative;
+    right: 80px;
+    top: 20px;
+}
+.search-bar{
+    display: flex;
+    flex: wrap;
+    justify-content: end;
+    position: relative;
+    right:65px;
+    height: 40px;
+    border: none;
+}
+.inputbar{
+    height: 100%;
+    width: 240px;
+    text-align: center;
+    background-color: #F7FCFDbf;
+    border: none;
+    font-weight: 700;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+.searchbutton{
+    height: 100%;
+    width: 100px;
+    background-color: #3C5156ff;
+    color: white;
+    border: none;
+    font-weight: 700;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    }
+    .heading{
+        text-align: center;
+        margin-bottom: 20px;
+        color: black;
+        margin-left: 75px;
+    }
+    p{
+        text-transform: capitalize;
+        text-align: center;
+        font-size: 1.5rem;
+        color: #3C5156ff;
+    }
+    .who{
+        font-weight: 700;
+    }
+    .about{
+        font-weight: 700;
+    }
+    .offer{
+        font-weight: 700;
+    }
+ul{
+    font-size: 1.5rem;
+    text-align: center;
+    color: #3C5156ff;
+}
+footer{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #3C5156ff;
+    height: 100px;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    color: white;
+
+}
+.contact{
+    background-color: transparent;
+position: relative;
+right: 40px;
+top: 18px;
+color: black;
+}

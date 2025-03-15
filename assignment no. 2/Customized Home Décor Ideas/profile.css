@@ -1,0 +1,276 @@
+.profile {
+  background-color: #f5f5dcd9;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.profile .div {
+  background-color: #f5f5dcd9;
+  overflow: hidden;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+}
+
+.profile .my-profile {
+  width: 449px;
+  height: 86px;
+  top: 6px;
+  left: 495px;
+  color: #3c5156;
+  position: absolute;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  font-size: 43px;
+  text-align: center;
+  letter-spacing: 5.16px;
+  line-height: 43px;
+}
+
+.profile .detail {
+  position: absolute;
+  width: 1050px;
+  height: 87px;
+  top: 111px;
+  left: 45px;
+}
+
+.profile .user-circle-single {
+  position: absolute;
+  width: 114px;
+  height: 114px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.profile .overlap-group {
+  position: absolute;
+  width: 1253px;
+  height: 87px;
+  top: 27px;
+  left: 143px;
+}
+
+.profile .rectangle {
+  left: 10px;
+  position: absolute;
+  width: 1243px;
+  height: 87px;
+  top: 0;
+  background-color: #d9d9d9;
+  border-radius: 19px;
+}
+
+.profile .text-wrapper {
+  position: absolute;
+  width: 487px;
+  height: 39px;
+  top: 23px;
+  left: 0;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #3c5156;
+  font-size: 43px;
+  text-align: center;
+  letter-spacing: 5.16px;
+  line-height: 43px;
+  white-space: nowrap;
+}
+
+.profile .addresss {
+  position: absolute;
+  width: 1050px;
+  height: 87px;
+  top: 425px;
+  left: 45px;
+}
+
+.profile .overlap {
+  width: 1271px;
+  top: 0;
+  left: 123px;
+  position: absolute;
+  height: 87px;
+}
+
+.profile .rectangle-2 {
+  left: 28px;
+  position: absolute;
+  width: 1243px;
+  height: 87px;
+  top: 0;
+  background-color: #d9d9d9;
+  border-radius: 19px;
+}
+
+.profile .jammu-and-kashmir {
+  position: absolute;
+  width: 487px;
+  height: 39px;
+  top: 23px;
+  left: 0;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #3c5156;
+  font-size: 31px;
+  text-align: center;
+  letter-spacing: 3.72px;
+  line-height: 31px;
+}
+
+.profile .image {
+  width: 87px;
+  height: 87px;
+  top: 0;
+  position: absolute;
+  left: 0;
+  object-fit: cover;
+}
+
+.profile .log-out {
+  position: absolute;
+  width: 1050px;
+  height: 87px;
+  top: 896px;
+  left: 45px;
+}
+
+.profile .log-out-wrapper {
+  width: 1234px;
+  top: 0;
+  left: 161px;
+  background-color: #3c5156;
+  border-radius: 19px;
+  position: absolute;
+  height: 87px;
+}
+
+.profile .log-out-2 {
+  position: absolute;
+  width: 487px;
+  height: 39px;
+  top: 23px;
+  left: 364px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 43px;
+  text-align: center;
+  letter-spacing: 5.16px;
+  line-height: 43px;
+  white-space: nowrap;
+}
+
+.profile .img {
+  width: 77px;
+  height: 77px;
+  top: 10px;
+  position: absolute;
+  left: 0;
+  object-fit: cover;
+}
+
+.profile .log-out-3 {
+  position: absolute;
+  width: 1050px;
+  height: 87px;
+  top: 739px;
+  left: 45px;
+}
+
+.profile .div-wrapper {
+  width: 1243px;
+  top: 0;
+  left: 156px;
+  background-color: #3c5156;
+  border-radius: 19px;
+  position: absolute;
+  height: 87px;
+}
+
+.profile .my-order {
+  width: 487px;
+  height: 39px;
+  top: 28px;
+  left: 371px;
+  color: #ffffff;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  font-size: 43px;
+  text-align: center;
+  letter-spacing: 5.16px;
+  line-height: 43px;
+}
+
+.profile .history {
+  position: absolute;
+  width: 1399px;
+  height: 87px;
+  top: 582px;
+  left: 45px;
+}
+
+.profile .clear-history {
+  position: absolute;
+  width: 487px;
+  height: 39px;
+  top: 23px;
+  left: 376px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 43px;
+  text-align: center;
+  letter-spacing: 5.16px;
+  line-height: 43px;
+  white-space: nowrap;
+}
+
+.profile .image-2 {
+  width: 75px;
+  height: 75px;
+  top: 15px;
+  position: absolute;
+  left: 0;
+  object-fit: cover;
+}
+
+.profile .phone-no {
+  position: absolute;
+  width: 1050px;
+  height: 87px;
+  top: 268px;
+  left: 45px;
+}
+
+.profile .overlap-2 {
+  width: 1280px;
+  top: 7px;
+  left: 113px;
+  position: absolute;
+  height: 87px;
+}
+
+.profile .rectangle-3 {
+  left: 37px;
+  position: absolute;
+  width: 1243px;
+  height: 87px;
+  top: 0;
+  background-color: #d9d9d9;
+  border-radius: 19px;
+}
+
+.profile .image-3 {
+  width: 94px;
+  height: 94px;
+  top: 0;
+  position: absolute;
+  left: 0;
+  object-fit: cover;
+}
